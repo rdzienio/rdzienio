@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rdzienio
 - 👀 I’m interested in backend//fullstack dev.
 - 🌱 I’m currently learning Java & Javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm looking for a job as junior backend dev.
 
 <!---
 rdzienio/rdzienio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
